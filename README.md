@@ -1,5 +1,5 @@
 # php7-wxwork-sdk
-支持高并发拉取会话存档的PHP扩展包 【CentOs7.x系统】
+整合后支持高并发拉取会话存档的PHP扩展包 【CentOs7.x系统】，服务商对不同企业进行做队列拉取的话。很实用。
 
 ## 官方包，获取会话内容SDK(C_sdk)
 https://developer.work.weixin.qq.com/document/path/91774
